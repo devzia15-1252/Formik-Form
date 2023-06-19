@@ -1,0 +1,10 @@
+.Select {
+  padding: 8px 16px;
+  font-size: 16px;
+  border-radius: 30px;
+  border: none;
+  background-color: rgb(229, 229, 229);
+  color: grey;
+  box-shadow: 0px 5px 0px 0px #d0d0d0;
+  outline: none;
+}
